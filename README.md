@@ -2,7 +2,7 @@
 
 ![Alt text](<Screenshot 2023-09-04 at 3.08.02 PM.png>)
 
-That heading is a lyric in the song _[https://www.youtube.com/watch?v=x8Ru8d0l_fU](Meat Grinder)_ by **[http://stonesthrow.com/madvillain](Madvillain)** and also how I am viewing my return to motion graphics during this hot September in the year of our lord, 2023.
+That heading is a lyric in the song [https://www.youtube.com/watch?v=x8Ru8d0l_fU](_Meat Grinder_) by [http://stonesthrow.com/madvillain](**Madvillain**) and also how I am viewing my return to motion graphics during this hot September in the year of our lord, 2023.
 
 It has been a minute since I made anything of substance. And I think these are the first graphicy things I'm committing to GitHub. These README files are being written in markdown language in VS Code. I mention that because there may be some spelling errors that VS Code is unable to help me with and I've become accostomed to beginning any project, whatever the medium, by typing out a README.md file in VS Code.
 
